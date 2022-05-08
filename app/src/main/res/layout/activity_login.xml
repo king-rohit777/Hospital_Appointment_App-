@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.aman.hospitalappointy.auth.LoginActivity">
+    tools:context="com.example.harshita.hospitalappointy.auth.LoginActivity">
 
     <include
         android:id="@+id/login_toolbar"

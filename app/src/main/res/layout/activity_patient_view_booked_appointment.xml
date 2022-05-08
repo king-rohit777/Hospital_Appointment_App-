@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.aman.hospitalappointy.patient.PatientViewBookedAppointmentActivity">
+    tools:context="com.example.harshita.hospitalappointy.patient.PatientViewBookedAppointmentActivity">
 
     <include
         android:id="@+id/show_bookedAppointment"

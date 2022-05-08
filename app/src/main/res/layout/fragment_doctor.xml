@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:focusable="true"
     android:focusableInTouchMode="true"
-    tools:context="com.example.aman.hospitalappointy.home.fragments.DoctorFragment">
+    tools:context="com.example.harshita.hospitalappointy.home.fragments.DoctorFragment">
 
     <LinearLayout
         android:layout_width="match_parent"
